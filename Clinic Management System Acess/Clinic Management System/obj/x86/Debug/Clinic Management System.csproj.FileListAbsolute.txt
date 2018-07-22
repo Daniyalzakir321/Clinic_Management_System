@@ -1,0 +1,42 @@
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form1.resources
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form2.resources
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form3.resources
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form4.resources
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form5.resources
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+c:\users\daniyal\documents\visual studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+C:\Users\Daniyal\Documents\Visual Studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form6.resources
+C:\Users\Daniyal\Documents\Visual Studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form10.resources
+C:\Users\Daniyal\Documents\Visual Studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form7.resources
+C:\Users\Daniyal\Documents\Visual Studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form8.resources
+C:\Users\Daniyal\Documents\Visual Studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form9.resources
+C:\Users\Daniyal\Documents\Visual Studio 2010\Projects\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form11.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.pdb
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.manifest
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.application
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form1.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form10.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form11.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form2.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form3.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form4.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form5.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form6.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form7.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form8.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Form9.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic_Management_System.Properties.Resources.resources
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.exe.manifest
+E:\Project of to write in cd\Clinic Management System\Clinic Management System\obj\x86\Debug\Clinic Management System.application

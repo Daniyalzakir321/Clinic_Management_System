@@ -10,3 +10,4 @@
 8. Report
 9. LogOut
 > [Image](https://github.com/Daniyalzakir321/Clinic_Management_System/blob/master/CMS%20Image.png)
+

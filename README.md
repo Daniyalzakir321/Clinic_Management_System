@@ -1,4 +1,4 @@
-# Clinic Management System in C#  
+# Clinic Management System in C#   
 #### MODULES:
 1. LogIn
 2. Admin
